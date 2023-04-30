@@ -4,9 +4,10 @@ An App that provides different ways for people who want to improve their knowled
 
 
 
+<img width="1440" alt="Screenshot 2023-04-30 at 9 13 52 PM" src="https://user-images.githubusercontent.com/109709369/235369481-fdcb270c-42ef-4921-bd26-6e5b2d29f9f4.png">
 
 
-<img width="905" alt="LearnSightful" src="https://user-images.githubusercontent.com/109709369/235369321-835e3567-25aa-4b9c-940f-cc2d6464ad1e.png">
+
 
 
 https://user-images.githubusercontent.com/109709369/235369371-99fa67b5-8a7b-4f66-bb80-98bd1d4e3006.mov
